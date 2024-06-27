@@ -1,6 +1,7 @@
 ## Font Awesome Premium 6.5.2
 ------------------------------------------------------------
 Get all the premium font awesome icon.
+You can see the preview icon and use it from their official website. [Font Awesome](https://fontawesome.com/search?o=r&f=classic%2Csharp)
 
 ### Installation
 
